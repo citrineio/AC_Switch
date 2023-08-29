@@ -1,0 +1,28 @@
+### Footprint positions - created on Mon Aug 28 22:50:35 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                 PosX       PosY       Rot  Side
+C3        1u                   CAPC1608X90N_SAMSUNG                 58.9125   -73.6463   90.0000  top
+C4        1u                   CAPC1608X90N_SAMSUNG                 55.6013   -75.9351    0.0000  top
+C5        1u                   CAPC1608X90N_SAMSUNG                 65.8500   -70.1601  180.0000  top
+C6        1u                   CAPC1608X90N_SAMSUNG                 65.3500   -95.7601  -90.0000  top
+C7        6P                   CAPC1608X90N_SAMSUNG                 62.6750   -81.3101   90.0000  top
+C8        6P                   CAPC1608X90N_SAMSUNG                 57.0250   -81.3351   90.0000  top
+D1        1N4007FL             CR_SOD-123FL_SME                     67.8000   -90.1601  -90.0000  top
+J1        TB002-500-03BE       CUI_TB002-500-03BE                  102.7000   -86.0851  -90.0000  top
+J2        Conn_01x14           PinHeader_1x08_P2.54mm_Vertical      46.4000   -74.2851    0.0000  top
+K1        G5LE-14_DC5          Relay_SPDT_Omron-G5LE-1              72.2725   -91.4601   90.0000  top
+PS101     HLK-PM01             Converter_ACDC_HiLink_HLK-PMxx      100.7000   -74.3101  180.0000  top
+Q1        Q_NMOS_GSD           DMN65D8L-7_MOSFET                    67.0750   -85.0947  180.0000  top
+R2        10K                  RESC1607X60N                         54.2500   -85.1001  -90.0000  top
+R3        10K                  RESC1607X60N                         65.5250   -92.6451  -90.0000  top
+R4        10K                  RESC1607X60N                         58.5000   -86.0101    0.0000  top
+R5        10K                  RESC1607X60N                         62.4550   -86.0101    0.0000  top
+RV1       S14K350              VARS_B72214S_15P5X5P6-7P5-2P2_TDK    95.7000   -91.3601  -90.0000  top
+SW1       TS-1187A-B-A-B       SW_TS-1187A-B-A-B                    64.6500   -65.6601   90.0000  top
+SW2       SW_SPDT              SW_JS102011SAQN                      55.2000   -63.0101  180.0000  top
+U2        AP2112K-3.3TRG1      SOT-23-5                             55.8375   -73.2601  180.0000  top
+U3        ESP32-C3-MINI-1U-H4  XCVR_ESP32-C3-MINI-1U-N4             57.8500   -93.0101  180.0000  top
+Y1        32K768               XTAL_FC-135R_32.7680KA-AG0           59.8750   -81.3851    0.0000  top
+## End
